@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://pablovicente.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pablovicente.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pablovicente.github.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pablovicente.github.io/projects/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pablovicente.github.io/github.com/pablovicente</loc>
+  </url>
+  
+  <url>
+    <loc>https://pablovicente.github.io/github.com/pablovicente</loc>
+  </url>
+  
+  <url>
+    <loc>https://pablovicente.github.io/github.com/pablovicente</loc>
+  </url>
+  
+  <url>
+    <loc>https://pablovicente.github.io/github.com/pablovicente</loc>
+  </url>
+  
+  <url>
+    <loc>https://pablovicente.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
